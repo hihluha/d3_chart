@@ -1,0 +1,24 @@
+.pie {
+    margin: auto;
+    display: flex;
+    position: relative;
+}
+
+.pie text {
+    fill: #888;
+}
+
+.pie .name-text{
+    font-size: 1em;
+}
+
+.pie .value-text{
+    font-size: 3em;
+}
+.pie2 {
+    position: relative;
+}
+.pie1 {
+    position: relative;
+    /*opacity: .1;*/
+}
